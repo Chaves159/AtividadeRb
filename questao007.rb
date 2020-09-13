@@ -8,4 +8,5 @@ vet.each do |i|
 	if vet[i].to_f > 5
 		puts vet[i]
 	end
+
 end
