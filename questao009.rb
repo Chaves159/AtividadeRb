@@ -2,7 +2,7 @@ num = []
 par = []
 impar = []
 i = 0
- while i < 6
+ while i < 20
  	print "Digite um valor: "
  	num[i] = gets.chomp.to_i
 	if num[i] %2 == 0
